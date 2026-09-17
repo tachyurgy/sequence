@@ -187,7 +187,7 @@ stages that can be filed in parallel, and prices the wait including the correcti
   release. Review durations and correction averages are illustrative; verify against the authority having
   jurisdiction before relying on a date.</p>
 </footer>
-</div></body></html>`;
+</div><script>window.LB_CFG={endpoint:"https://levelbrook.com/e"}</script><script src="https://levelbrook.com/lb.js" defer></script></body></html>`;
 }
 
 async function main() {
